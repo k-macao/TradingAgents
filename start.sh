@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /workspaces/TradingAgents
+cd /k-macao/TradingAgents
 
 # 检查环境文件
 if [ ! -f ".env" ];then
